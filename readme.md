@@ -10,14 +10,15 @@ here can be applied to any suitable regression dataset.
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
+```text
 ml-regularization/
 │
 ├── Notebooks/
 │   ├── Ridge_Regularization.ipynb
 │   ├── Lasso_Regularization.ipynb
-│   ├── Elastic_net_Regularization.ipynb
+│   └── Elastic_net_Regularization.ipynb
 │
 ├── NOTES/
 │   ├── Regularization_Overview.pdf
@@ -26,8 +27,8 @@ ml-regularization/
 │
 ├── requirements.txt
 └── README.md
+```
 
----
 
 ## Regularization Techniques Covered
 
